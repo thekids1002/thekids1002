@@ -1,16 +1,22 @@
-## Hi there 👋
+# Xin chào! 👋 Tôi là [Võ Hoàng Kiệt]
 
-<!--
-**thekids1002/thekids1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Một coder đam mê sáng tạo và giải quyết vấn đề. Tôi yêu thích xây dựng ứng dụng web và khám phá AI.
 
-Here are some ideas to get you started:
+## Kỹ năng
+- 🌐 **Frontend**: React, Tailwind CSS
+- ⚙️ **Backend**: Node.js, Express
+- 🛠️ **Tools**: Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dự án nổi bật
+- **[Todo App](link)**: Ứng dụng quản lý công việc với giao diện đẹp mắt.
+- **[Chatbot AI](link)**: Bot trò chuyện thông minh dùng Python.
+
+## Thống kê
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical)
+
+## Liên hệ
+- 📧 [email@example.com]
+- 🐦 [@yourhandle]
+
+## Fun Fact
+Tôi đã từng code liên tục 12 tiếng chỉ để sửa một bug nhỏ! 🐞

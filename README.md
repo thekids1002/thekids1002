@@ -12,7 +12,7 @@ Một coder đam mê sáng tạo và giải quyết vấn đề. Tôi yêu thíc
 - **[Chatbot AI](link)**: Bot trò chuyện thông minh dùng Python.
 
 ## Thống kê
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[thekids1002]&show_icons=true&theme=radical)
 
 ## Liên hệ
 - 📧 [email@example.com]
